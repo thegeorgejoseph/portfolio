@@ -1,10 +1,16 @@
 import React from "react";
+import "../App.css";
 
 const Home = () => {
   return (
-    <div>
-      Home sdfsdfasf sfsdgsdgs gsfsadfa sdgsdgsad gsfsadfagsad gsfsadfagasdgasd
-      gsfsadfagsadg sadg sad
+    <div className="home-page">
+      <div className="intro">
+        <div className="name">George Joseph</div>
+        <div className="name-secondary">Software Engineer</div>
+      </div>
+      <div className="hero">
+        <div className="hero-logo"></div>
+      </div>
     </div>
   );
 };

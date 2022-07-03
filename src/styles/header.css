@@ -3,11 +3,12 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  background-color: transparent;
 }
 
 .image {
-  width: 50px !important;
-  height: 50px !important;
+  width: 35px !important;
+  height: 35px !important;
   border: 3px solid var(--mild-green);
   border-radius: 50%;
   background: url("../assets/logo.jpg");
