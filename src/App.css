@@ -52,20 +52,14 @@
 .hero-bisect {
   position: absolute;
   background-color: var(--secondary);
-  top: 5%;
+  top: 7%;
   right: 0;
   bottom: 0;
   left: 63.5%;
   z-index: 5;
-  height: 100vh;
+  height: 98.5vh;
 }
-/* .hero-bisect {
-  height: 100%;
-  width: 50%;
-  border: 1px solid yellow;
-  position: absolute;
-  z-index: 2;
-} */
+
 .hero-logo {
   background: url("./assets/logo.jpg");
   width: 500px;
