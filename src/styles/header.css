@@ -4,6 +4,9 @@
   justify-content: space-between;
   align-items: center;
   background-color: transparent;
+  z-index: 2;
+  margin-left: 120px;
+  margin-right: 120px;
 }
 
 .image {
